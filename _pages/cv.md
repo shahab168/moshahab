@@ -11,26 +11,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. & Ph.D in Chemical Engineering, IIT Madras, 2022
+* B.Tech. in Petrochemical Engineering, Aligarh Muslim University, 2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023-2025: Postdoc Research Associate
+  * Purdue University
+  * Research project: Digital twin development, predictive maintainance, and process analysis of pharmaceutical drug product manufacturing systems
+  * Supervisors: Prof Gintaras Reklaitis & Prof. Zoltan Nagy
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* July-December 2022: Institute Postdoc Fellow
+  * IIT Madras
+  * Research project: Systems design of droplet microfluidic devices
+  * Supervisor: Prof. Raghunathan Rengaswamy
   
 Skills
 ======
